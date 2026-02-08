@@ -25,7 +25,7 @@ It is designed for clean, maintainable code and rapid API development.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/velox.git
+git clone https://github.com/maroofiums/velox.git
 cd velox
 ````
 
